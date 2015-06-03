@@ -1,5 +1,7 @@
 <h2>Hello from backbone's template file :)</h2>
 
+<ul>
 <% for message in @messages.models: %>
-	<p><%= message.get('content') %></p>
+	<li><%= message.get('content') %></li>
 <% end %>
+</ul>
