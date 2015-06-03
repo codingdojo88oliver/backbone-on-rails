@@ -1,0 +1,5 @@
+Message.create!(content: "Hello, World!")
+Message.create!(content: "What's on your mind?")
+Message.create!(content: "No one cares about your blog")
+Message.create!(content: "Having an iPhone has completely changed the way I poop")
+Message.create!(content: "So many memories so little RAM")
